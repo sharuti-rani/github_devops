@@ -1,0 +1,5 @@
+git status 
+git add.
+git commit -m "added testing files"
+git init 
+and many more ..
